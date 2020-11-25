@@ -7,7 +7,7 @@
 body
 {
     background-image: url("train.jpg");
-    //position:fixed;
+    position:fixed;
     background-position: 0px -600px;  
 }
 
@@ -18,7 +18,7 @@ body
     font-family: myFont;
     float: left;
     position: relative;
-   // top: 60px;
+    top: 60px;
     left: 50px;
     border: 2px solid red;
     color: cyan;
@@ -58,7 +58,7 @@ body
 }*/
 #zero
 {
-    //border: 4px cyan dotted;
+    border: 4px cyan dotted;
     color: rgb(245, 70, 27);
     padding-top: 10px;
     padding-bottom: 10px;
@@ -68,11 +68,11 @@ body
     font-family: papyrus;
     width: 50%;
     height: 200px;
-    //position: relative;
+    position: relative;
     left: 50px;
     top: 500px;
-    //overflow: auto;
-   // background-color: rgb(39, 123, 250,0.15); 
+    overflow: auto;
+    background-color: rgb(39, 123, 250,0.15); 
 }
 #one 
 {
@@ -86,10 +86,10 @@ body
     font-family: papyrus;
     width: 95%;
     height: 600px;
-    //position: relative;
+    position: relative;
     left: 20px;
     top: 150px;
-    //overflow: auto;
+    overflow: auto;
     background-color: rgb(39, 123, 250,0.15); 
 }
 
@@ -106,7 +106,7 @@ body
     font-family: papyrus;
     width: 94%;
     height: 700px;
-    //position: relative;
+    position: relative;
     left: 200px;
     top: 150px;
     overflow: auto;
@@ -126,7 +126,7 @@ body
     font-family: papyrus;
    width: 80%;
     height: 700px;
-    //position: relative;
+    position: relative;
     left: 200px;
     top: 150px;
     overflow: auto;
@@ -146,7 +146,7 @@ body
     font-family: papyrus;
     width: 95%;
     height: 700px;
-    //position: relative;
+    position: relative;
     left: 200px;
     top: 150px;
     overflow: auto;
